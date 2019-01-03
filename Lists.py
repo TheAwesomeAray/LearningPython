@@ -20,4 +20,3 @@ student_names[1:] == ["AKRay", "Andrew"] # list slicing. Does not modify the lis
 #Lists can include many types
 
 
-
